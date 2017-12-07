@@ -53,4 +53,5 @@ if(Input::exists()) {
 
     <input type="hidden" name="token" value="<?php echo Token::generate(); ?>">
     <input type="submit" value="Login">
+    <h1>hi</h1>
 </form>
